@@ -17,7 +17,12 @@ quando a demanda muda de fase.
 ## Uso
 
 Os agentes já estão em `.claude/agents/`, então basta abrir o Claude Code neste
-repositório. Confirme com `/agents`.
+repositório — não há passo de ativação. O Claude Code carrega os arquivos de
+`.claude/agents/` ao iniciar.
+
+> O comando `/agents` **não existe mais** (o wizard foi removido). Se a
+> documentação do pacote mandar confirmar por ele, ignore: para conferir se
+> carregou, basta pedir uma tarefa da especialidade e ver o agente ser acionado.
 
 **Modo automático** — são acionados sozinhos quando a tarefa descrita bate com a
 especialidade.
