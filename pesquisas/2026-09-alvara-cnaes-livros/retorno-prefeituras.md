@@ -6,27 +6,27 @@
 
 **Balneário Camboriú:**
 * **Funcionamento:** ✅ Cobrança devida pela metragem, e não pela quantidade de CNAEs, ou seja, não haverá cobrança adicional.
-* **Sanitário:** 🔎 A taxa é cobrada por CNAE sujeito à vigilância sanitária (Lei 4.999/2025): 0,50 UFM por CNAE de baixo risco, ou R$ 225,46 em 2026. Os 3 CNAEs são de baixo risco. Se não estiverem sujeitos à vigilância sanitária, não há cobrança. Se estiverem, o acréscimo é de até R$ 676,38 por ano.
+* **Sanitário:** ✅ Cobrança de 0,50 UFM por CNAE de baixo risco sujeito à vigilância sanitária, ou R$ 225,46 em 2026 (até R$ 676,38 para os 3 CNAEs).
 
 **Balneário Piçarras:**
 * **Funcionamento:** 🔎 A TLF é zerada para atividades de baixo risco (LO 715/2019). Não deve haver cobrança adicional.
 * **Sanitário:** 🔎 Atividade de baixo risco. Não deve haver cobrança adicional.
 
 **Blumenau:**
-* **Funcionamento:** 🔎 A tabela da taxa é por faixa de área (m²), conforme a LC 632/2007. Se a área não mudar, não deve haver cobrança adicional no valor anual. Pode haver taxa pontual na alteração do alvará.
-* **Sanitário:** 🔎 Atividade de baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** ✅ Cobrança devida pela metragem, e não pela quantidade de CNAEs, ou seja, não haverá cobrança adicional.
+* **Sanitário:** ✅ Enquadrada em baixo risco, não haverá cobrança adicional na taxa de alvará.
 
 **Camboriú:**
-* **Funcionamento:** 🔎 A taxa é devida no início e na mudança de ramo, com indício de cálculo por área. A tendência é não haver cobrança adicional no valor anual, com possível taxa na alteração.
-* **Sanitário:** 🔎 Atividade de baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** ✅ Haverá cobrança adicional por incluir as atividades. **Valor ou percentual a confirmar.**
+* **Sanitário:** ✅ Haverá cobrança adicional por incluir as atividades. **Valor ou percentual a confirmar.**
 
 **Itajaí:**
 * **Funcionamento:** ✅ Cobrança devida pela metragem, e não pela quantidade de CNAEs, ou seja, não haverá cobrança adicional.
-* **Sanitário:** ✅ Enquadrada em baixo risco, não haverá cobrança na taxa de alvará.
+* **Sanitário:** ✅ Enquadrada em baixo risco, não haverá cobrança adicional na taxa de alvará.
 
 **Itapema:**
-* **Funcionamento:** 🔎 A regra não foi localizada na legislação. Aguardando retorno (alvara@itapema.sc.gov.br).
-* **Sanitário:** ✅ Enquadrada em baixo risco, não haverá cobrança na taxa de alvará.
+* **Funcionamento:** ✅ Enquadrada em baixo risco, não haverá cobrança adicional na taxa de alvará.
+* **Sanitário:** ✅ Enquadrada em baixo risco, não haverá cobrança adicional na taxa de alvará.
 
 **Joinville:**
 * **Funcionamento:** 🔎 TLL = Cef × Gra × Fp × UPM. O porte é rateado entre as atividades, e o fator de risco é o mesmo (1,5) para baixo e médio risco. Não haverá acréscimo no valor anual. Há apenas a taxa de alteração do alvará, de R$ 58,69, paga uma vez.
