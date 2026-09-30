@@ -3,6 +3,7 @@
 **Data:** 30/09/2026
 **Finalidade:** estudo para a alteração em massa no Koch
 **Planilha-resumo:** `resumo-prefeituras.csv`
+**Premissa:** os 3 CNAEs entram como atividades **secundárias**. A atividade principal não muda.
 
 ## CNAEs analisados
 
@@ -13,6 +14,8 @@
 | 47.61-0-02 | Comércio varejista de jornais e revistas | Baixo risco | Idem |
 
 ### Premissas que valem para todas as prefeituras
+
+0. **CNAEs secundários.** Onde a taxa é calculada pela atividade principal, pela de maior valor ou pela área, incluir secundárias de baixo risco **não aumenta** o valor anual. O aumento só aparece onde a lei soma um acréscimo por atividade adicional (Palhoça e São José) ou cobra por CNAE (sanitário de Balneário Camboriú).
 
 1. **A imunidade do livro não alcança a taxa.** O art. 150, VI, "d", da CF (imunidade de livros, jornais e periódicos) vale só para **impostos**. A taxa de alvará continua sendo devida.
 2. **Baixo risco.** Pela Lei 13.874/2019 (Liberdade Econômica), a atividade de baixo risco dispensa o ato de alvará. Mesmo assim, várias prefeituras de SC ainda cobram a taxa anual de localização e funcionamento. O que decide o valor é o Código Tributário de cada município.
@@ -25,10 +28,10 @@
 
 ### ✅ Regra confirmada na legislação
 
-**1. Balneário Camboriú: SEM acréscimo no funcionamento**
+**1. Balneário Camboriú: SEM acréscimo no funcionamento** (UFM 2026 = R$ 450,92)
 - No novo CTM (LC 116/2025), a TLF tem **valor fixo** definido no Anexo I e não depende da quantidade de atividades.
 - Sanitário (Lei 4.999/2025): cobrança **por CNAE**. Baixo risco paga 0,50 UFM, médio 0,75 UFM e alto 1,50 UFM. Esse acréscimo só existe se os CNAEs forem sujeitos à VISA.
-- **Cálculo do sanitário, se aplicável:** acréscimo = nº de CNAEs incluídos sujeitos à VISA × 0,50 UFM. Com os 3 CNAEs, isso dá até 1,5 UFM.
+- **Cálculo do sanitário, se aplicável:** acréscimo = nº de CNAEs incluídos sujeitos à VISA × 0,50 UFM. Com os 3 CNAEs, isso dá até 1,5 UFM, ou **R$ 676,38** em 2026 (R$ 225,46 por CNAE).
 
 **2. Joinville: SEM acréscimo no valor anual (0%)**
 - Fórmula da TLL: **Cef × Gra × Fp × UPM**.
@@ -49,37 +52,47 @@
 - **Cálculo:** Taxa = maior valor da Tabela A × (1 + 0,20 × nº de outras atividades).
 - Com os 3 CNAEs como modalidades distintas: **+60%**. Se caírem na mesma modalidade da Tabela A, pode ser +20% ou 0%.
 
-### ⚠️ Regra parcial: confirmar com a prefeitura
+### ⚠️ Regra parcial: confirmar com a prefeitura (atualizado na 2ª rodada de buscas)
 
 **5. Balneário Piçarras: sem acréscimo esperado**
 - A LC 155/2019 (art. 200) e a LO 715/2019 reduziram a **TLF a zero para atividades de baixo risco** e para MEI.
 - Se a empresa for integralmente de baixo risco, a inclusão não gera custo.
 - Confirmar se continua sendo cobrada a TLLI (Localização e Instalação) ou a TVI (Viabilidade) na alteração.
 
-**6. Blumenau: provável recálculo pela área, sem regra por quantidade de atividades**
-- A TLF (LC 632/2007) é devida no início da atividade e na **mudança de local ou de ramo**.
-- O alvará precisa informar a área utilizada e as atividades principal e secundárias.
-- Não encontrei acréscimo por quantidade de atividades. A inclusão pode ser tratada como alteração de ramo e gerar nova taxa na alteração.
+**6. Blumenau: tendência de 0% no valor anual**
+- **Lei:** LC 632/2007. A tabela de valores da taxa fica no Anexo V (atualizado pela LC 1.393/2021).
+- A taxa é devida no início e na **mudança de local ou de ramo**.
+- A 2ª rodada indicou que a tabela usa **faixas de área (m²)**. O cadastro do alvará exige a área utilizada e as atividades principal e secundárias.
+- **Leitura:** se a área não muda, incluir secundárias não deve alterar o valor anual. Pode haver uma cobrança pontual na alteração do alvará.
 
-**7. Camboriú: provável taxa na alteração**
-- A TLLF é devida no início e na **transferência de local ou de ramo de atividade**.
-- Não localizei o método de cálculo nem se há acréscimo por atividade.
+**7. Camboriú: sem regra por atividade localizada**
+- **Lei:** Código Tributário, LC 30/2010.
+- A taxa é devida no início e na **transferência de local ou de ramo**.
+- Um trecho de busca menciona acréscimo de **0,5% da UFM por m² acima de 80 m²**, o que indica cálculo por área. Não ficou claro se o trecho é de Camboriú ou de Balneário Camboriú.
+- **Leitura:** tendência de 0% no valor anual, com possível taxa na alteração.
 
-**8. Itajaí: depende de porte e grau de risco**
-- LC 20/2002, com os Decretos 11.956/2020 (cadastro e alvará) e 11.985/2020 (tabela de grau de risco).
-- O valor varia com o **porte do empreendimento ou a atividade** e é corrigido anualmente pelo IPCA. MEI é isento.
-- Como os CNAEs são de baixo risco, a tendência é **não haver acréscimo**, mas isso não foi confirmado.
+**8. Itajaí: tendência de 0%**
+- **Lei:** LC 20/2002, com o Decreto 11.985/2020 (grau de risco) e o Decreto 13.248/2024, que substituiu o 11.956/2020 no cadastro e na concessão do alvará.
+- O valor varia com **porte e atividade/grau de risco** e é corrigido anualmente pelo IPCA. A taxa vence em 28/02 e MEI é isento.
+- **Leitura:** as secundárias de baixo risco não elevam o grau de risco da empresa, então a tendência é 0%. A tabela de valores não foi localizada.
 
-**9. Tijucas: tabela por atividade**
-- A TLL é anual (LC 001/2010, Anexo II, com valores por atividade).
-- A Taxa de Vigilância Sanitária (LC 101/2023) varia conforme o tipo de atividade.
-- Não localizei regra específica para múltiplas atividades.
+**9. Tijucas: tabela por atividade; possível acréscimo**
+- **Lei:** LC 001/2010. O Anexo II tem um **valor em UFM por atividade**; por exemplo, "comércio varejista de artigos de papelaria" aparece com **120 UFM**.
+- A taxa sanitária (LC 101/2023) varia conforme o tipo de atividade.
+- A regra para múltiplas atividades **não foi localizada**:
+  - Se Tijucas cobrar só a atividade de maior valor, como é comum, as secundárias de livros e jornais não aumentam a taxa.
+  - Se somar por atividade, cada CNAE secundário acrescenta o seu valor do Anexo II.
+- **É o município com maior incerteza.** Confirmar com a prefeitura.
+
+**10. Penha: sem regra por atividade localizada**
+- A Taxa de Fiscalização para Funcionamento do Estabelecimento (TFFE) é anual, calculada por tabela e paga até 31/03.
+- UFM de 2025: **R$ 210,81**, segundo um trecho de busca que precisa ser conferido.
+- A LC 183/2025 trata de isenção da Taxa de Fiscalização para Localização (TFLE), da TFFE e da Taxa de Vigilância Sanitária. Não identifiquei para quem vale a isenção.
+- O cálculo usa fator de localização (frente 1,00; fundos 0,80). Não encontrei regra para múltiplas atividades.
 
 ### ❓ Não localizado
 
-**10. Itapema:** CTM na LC 38/2011, alterada pela LC 124/2023. Não encontrei a tabela nem a regra para múltiplas atividades.
-
-**11. Penha:** o CTM prevê fator de localização (frente 1,00; fundos 0,80). Não encontrei regra para múltiplas atividades.
+**11. Itapema:** CTM na LC 38/2011, alterada pela LC 124/2023. Mesmo na 2ª rodada, não encontrei a tabela nem a regra para atividades secundárias.
 
 ## Média de acréscimo
 
@@ -104,7 +117,7 @@
 
 ## Próximo passo sugerido
 
-Enviar o e-mail-modelo (`email-prefeituras.md`) aos setores de alvará dos 7 municípios pendentes: Piçarras, Blumenau, Camboriú, Itajaí (alvara@itajai.sc.gov.br), Tijucas, Itapema e Penha.
+Enviar o e-mail-modelo (`email-prefeituras.md`) aos setores de alvará dos municípios pendentes. A ordem de prioridade é **Tijucas** (maior risco), **Itapema** (nada localizado), **Penha** e **Camboriú**, e depois Blumenau, Itajaí (alvara@itajai.sc.gov.br) e Piçarras só para confirmação.
 
 ## Fontes
 
@@ -117,6 +130,10 @@ Enviar o e-mail-modelo (`email-prefeituras.md`) aos setores de alvará dos 7 mun
 - Camboriú: [CTM](https://leismunicipais.com.br/codigo-tributario-camboriu-sc)
 - Itajaí: [LC 20/2002](http://tributos.itajai.sc.gov.br/Tutoriais/Download/16) · [Taxas on-line](https://sefaz.itajai.sc.gov.br/noticia/29691/taxas-municipais-de-licenca-e-a-localizacao-das-empresas-e-autonomos-estao-disponiveis-on-line) · [Decreto 11.985/2020](https://leismunicipais.com.br/a/sc/i/itajai/decreto/2020/1199/11985/decreto-n-11985-2020-dispoe-sobre-a-tabela-de-grau-de-risco-das-atividades-economicas-para-a-concessao-de-alvara-de-licenca-para-localizacao-e-funcionamento-do-municipio-de-itajai)
 - Tijucas: [CTM](https://leismunicipais.com.br/codigo-tributario-tijucas-sc) · [TLL](https://www.tijucas.sc.gov.br/noticias/detalhe/taxa-de-licenca-de-localizacao-tll-vence-dia-1-de-abril) · [LC 101/2023, TVS](https://leismunicipais.com.br/a/sc/t/tijucas/lei-complementar/2023/11/101/lei-complementar-n-101-2023-dispoe-sobre-a-criacao-da-taxa-de-vigilancia-sanitaria-na-forma-que-especifica)
+- Blumenau (2ª rodada): [LC 1.393/2021](https://digital.camarablu.sc.gov.br/documento/lei-complementar-no-1393-2021-429180) · [Sincavi](https://sincavi.portaldocomercio.org.br/sistema-comercio/alteracoes-de-impostos-e-taxas-municipais-de-blumenau-2/)
+- Itajaí (2ª rodada): [Decreto 13.248/2024](https://leismunicipais.com.br/a/sc/i/itajai/decreto/2024/1324/13248/decreto-n-13248-2024-dispoe-sobre-o-cadastro-fiscal-de-contribuintes-a-concessao-de-licenca-para-localizacao-e-funcionamento-a-simplificacao-e-integracao-do-processo-de-registro-e-legalizacao-de-empresarios-e-pessoas-juridicas-no-municipio-de-itajai-e-da-outras-providencias)
+- Penha (2ª rodada): [Decreto 4.357 (DOM/SC)](https://www.diariomunicipal.sc.gov.br/atos/6696816) · [LC 91/2014 (TFFE/TVS)](https://leismunicipais.com.br/a1/sc/p/penha/lei-complementar/2014/10/91/lei-complementar-n-91-2014-concede-remissao-e-anistia-de-creditos-tributarios-inscritos-ou-nao-em-divida-ativa-originarios-da-taxa-de-fiscalizacao-para-funcionamento-de-estabelecimento-tffe-taxa-de-vigilancia-sanitaria-tvs-de-pessoas-fisicas-e-juridicas-inativas-no-municipio-de-penha-e-iptu-na-forma-que-especifica-e-determina-outras-providencias)
+- Balneário Camboriú (UFM 2026): [NoPontoSC](https://nopontosc.com.br/2025/12/15/prefeitura-de-balneario-camboriu-atualiza-valor-da-ufm-para-2026/)
 - Itapema: [CTM](https://leismunicipais.com.br/codigo-tributario-itapema-sc)
 - Penha: [CTM](https://leismunicipais.com.br/codigo-tributario-penha-sc)
 - Vigilância sanitária SC: [RN 01/2025 DIVS](https://www.vigilanciasanitaria.sc.gov.br/index.php/component/content/article/diretoria-de-vigilancia-sanitaria-publica-nova-resolucao-normativa-n-01-2025-sobre-a-classificacao-de-risco-sanitario.html?catid=9&Itemid=109) · [IN Anvisa 66/2020](https://www.legisweb.com.br/legislacao/?id=400776)

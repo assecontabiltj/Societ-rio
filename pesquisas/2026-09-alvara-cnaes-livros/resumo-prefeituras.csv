@@ -1,12 +1,12 @@
-municipio;alvara_funcionamento_altera;regra_multiplas_atividades;acrescimo_estimado_3_cnaes;alvara_sanitario_altera;status_fonte;base_legal
-Balneario Camboriu;Nao;TLF de valor fixo (Anexo I) - nao varia por n. de atividades;0%;So se CNAE sujeito a VISA: +0,50 UFM por CNAE baixo risco;Confirmado (lei);LC 116/2025 + Lei 4.999/2025
-Balneario Picarras;Nao (tende a zero);TLF reduzida a zero para atividades de baixo risco;0%;Nao esperado;Parcial - confirmar com prefeitura;LC 155/2019 art. 200 + LO 715/2019 arts. 16-24
-Blumenau;Possivel taxa de alteracao;TLF devida no inicio e na mudanca de local ou ramo; considera area e atividades principal/secundarias;Nao localizado - confirmar;Nao esperado;Pendente de confirmacao;LC 632/2007
-Camboriu;Possivel taxa de alteracao;TLLF devida no inicio e na transferencia de local ou ramo de atividade;Nao localizado - confirmar;Nao esperado;Pendente de confirmacao;Codigo Tributario de Camboriu
-Itajai;Possivel;Valor varia conforme porte e atividade (grau de risco - Dec. 11.985/2020);Nao localizado - confirmar;Nao esperado;Pendente de confirmacao;LC 20/2002 + Dec. 11.956/2020 e 11.985/2020
-Itapema;Nao localizado;Nao localizado;Nao localizado - confirmar;Nao esperado;Pendente de confirmacao;LC 38/2011 (alt. LC 124/2023)
-Joinville;Nao (valor recorrente);TLL = Cef x Gra x Fp x UPM; porte rateado proporcionalmente entre atividades; baixo e medio risco = 1,5;0% (so taxa de alteracao do alvara R$ 58,69);Nao esperado;Confirmado (lei);CTM Joinville (LC 643/2023 e 644/2023) + LC 414/2014
-Palhoca;Sim;+10% por atividade adicional do Anexo IV (limite 100%) - TLL e TLF;+10% a +30%;Nao esperado;Confirmado (lei);LC 18/2002 (alt. LC 154/2013)
-Penha;Nao localizado;Nao localizado;Nao localizado - confirmar;Nao esperado;Pendente de confirmacao;Codigo Tributario de Penha
-Sao Jose;Sim;Maior taxacao da Tabela A + 20% para cada outra atividade;+20% a +60%;Nao esperado;Confirmado (lei);Codigo Tributario de Sao Jose (Tabela A)
-Tijucas;Possivel;TLL anual por tabela de atividade (Anexo II); TVS por tipo de atividade;Nao localizado - confirmar;So se CNAE sujeito a VISA;Pendente de confirmacao;LC 001/2010 + LC 101/2023
+municipio;alvara_funcionamento_altera_com_3_secundarias;regra_encontrada;acrescimo_estimado;alvara_sanitario;status_fonte;base_legal
+Balneario Camboriu;Nao;TLF de valor fixo (Anexo I);0%;So se CNAE sujeito a VISA: 0,50 UFM por CNAE (R$ 225,46 em 2026; R$ 676,38 para os 3);Confirmado (lei);LC 116/2025 + Lei 4.999/2025
+Joinville;Nao (valor anual);TLL = Cef x Gra x Fp x UPM; porte rateado entre atividades; baixo e medio risco = 1,5;0% (so taxa de alteracao R$ 58,69);Nao esperado;Confirmado (lei);CTM Joinville (LC 643 e 644/2023) + LC 414/2014
+Balneario Picarras;Nao;TLF zerada para baixo risco;0%;Nao esperado;Confirmado parcialmente;LC 155/2019 art. 200 + LO 715/2019
+Palhoca;Sim;+10% por atividade adicional do Anexo IV (limite 100%) - TLL e TLF;ate +30%;Nao esperado;Confirmado (lei);LC 18/2002 (alt. LC 154/2013)
+Sao Jose;Sim;Maior taxacao da Tabela A + 20% por cada outra atividade;ate +60%;Nao esperado;Confirmado (lei);CTM Sao Jose (Tabela A)
+Blumenau;Tendencia nao;Tabela por faixa de area (Anexo V); devida na mudanca de local ou ramo;0% anual; possivel taxa de alteracao;Nao esperado;Parcial - confirmar;LC 632/2007 + LC 1.393/2021
+Itajai;Tendencia nao;Porte + grau de risco (Dec. 11.985/2020); MEI isento;0% esperado;Nao esperado;Parcial - confirmar;LC 20/2002 + Dec. 13.248/2024
+Camboriu;Tendencia nao;Devida na mudanca de local ou ramo; indicio de calculo por area (+0,5% UFM/m2 acima de 80 m2 - origem incerta);0% anual; possivel taxa de alteracao;Nao esperado;Parcial - confirmar;LC 30/2010
+Tijucas;Incerto;Valor em UFM por atividade no Anexo II (ex.: papelaria 120 UFM); regra para multiplas atividades nao localizada;0% (se cobrar a de maior valor) ate soma dos valores do Anexo II;TVS por tipo de atividade;Pendente - prioridade;LC 001/2010 + LC 101/2023
+Penha;Incerto;TFFE anual por tabela; UFM 2025 R$ 210,81 (a conferir); LC 183/2025 preve isencoes;Nao localizado;Nao esperado;Pendente;CTM Penha + LC 183/2025
+Itapema;Incerto;Nao localizado;Nao localizado;Nao esperado;Pendente - prioridade;LC 38/2011 (alt. LC 124/2023)
