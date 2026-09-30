@@ -9,8 +9,8 @@
 * **Sanitário:** ✅ Cobrança de 0,50 UFM por CNAE de baixo risco sujeito à vigilância sanitária, ou R$ 225,46 em 2026 (até R$ 676,38 para os 3 CNAEs).
 
 **Balneário Piçarras:**
-* **Funcionamento:** 🔎 A TLF é zerada para atividades de baixo risco (LO 715/2019). Não deve haver cobrança adicional.
-* **Sanitário:** 🔎 Atividade de baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** 🔎 Para atividades de baixo risco, a lei zera a TLLI (Localização e Instalação) e a TLF (Funcionamento) e dispensa a apresentação de alvará (LC 155/2019, art. 200; LO 715/2019). Não deve haver cobrança adicional.
+* **Sanitário:** 🔎 Baixo risco. Não deve haver cobrança adicional.
 
 **Blumenau:**
 * **Funcionamento:** ✅ Cobrança devida pela metragem, e não pela quantidade de CNAEs, ou seja, não haverá cobrança adicional.
@@ -29,20 +29,20 @@
 * **Sanitário:** ✅ Enquadrada em baixo risco, não haverá cobrança adicional na taxa de alvará.
 
 **Joinville:**
-* **Funcionamento:** 🔎 TLL = Cef × Gra × Fp × UPM. O porte é rateado entre as atividades, e o fator de risco é o mesmo (1,5) para baixo e médio risco. Não haverá acréscimo no valor anual. Há apenas a taxa de alteração do alvará, de R$ 58,69, paga uma vez.
-* **Sanitário:** 🔎 Atividade de baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** 🔎 A TLL **não é anual**: é cobrada só na abertura, na mudança de endereço ou na **inclusão de atividade**. Na inclusão, a taxa da nova atividade é **calculada proporcionalmente à quantidade de atividades já existentes**. Portanto haverá **cobrança única** na inclusão dos 3 CNAEs, além da taxa de alteração do alvará (R$ 57,25 a R$ 58,69). Não há acréscimo anual.
+* **Sanitário:** 🔎 Baixo risco. Não deve haver cobrança adicional.
 
 **Palhoça:**
-* **Funcionamento:** 🔎 A lei (LC 18/2002) acrescenta **10% por atividade adicional**, com limite de 100%. Com os 3 CNAEs secundários, o acréscimo pode chegar a **+30%**. **Prioridade confirmar.**
-* **Sanitário:** 🔎 Atividade de baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** 🔎 A lei (LC 18/2002, alterada pela LC 154/2013) acrescenta **10% por atividade adicional**, com limite de 100%, na TLL e na TLF. Com os 3 CNAEs, o acréscimo pode chegar a **+30%**. Não achei nada que exclua as atividades secundárias. **Prioridade confirmar.**
+* **Sanitário:** 🔎 Baixo risco. A Lei de Liberdade Econômica dispensa o alvará sanitário para baixo risco. Não deve haver cobrança adicional.
 
 **Penha:**
-* **Funcionamento:** 🔎 A TFFE é anual e calculada por tabela. A regra para múltiplas atividades não foi localizada. Aguardando retorno.
-* **Sanitário:** 🔎 Atividade de baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** 🔎 A TFFE é anual, calculada por tabela. A regra para múltiplas atividades não foi localizada. A LC 183/2025 isenta apenas entidades sem fins lucrativos e não se aplica aqui. Aguardando retorno.
+* **Sanitário:** 🔎 Baixo risco. Não deve haver cobrança adicional.
 
 **São José:**
-* **Funcionamento:** 🔎 A lei cobra a atividade de maior taxação da Tabela A e soma **+20% para cada outra atividade**. Com os 3 CNAEs secundários, o acréscimo pode chegar a **+60%**. **Prioridade confirmar.**
-* **Sanitário:** 🔎 Atividade de baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** 🔎 Confirmado na lei: a taxa é calculada pela atividade de maior valor da Tabela A, **+20% para cada outra atividade**, e isso inclui as secundárias. Com os 3 CNAEs, o acréscimo pode chegar a **+60%**. **Prioridade confirmar.**
+* **Sanitário:** 🔎 A licença sanitária simplificada gera taxa anual, mas só para atividades sujeitas à vigilância sanitária. Livros e jornais, em regra, não são. Não deve haver cobrança adicional. Contato: processos.visa@pmsj.sc.gov.br.
 
 **Tijucas:**
 * **Funcionamento:** 🔎 A TLL tem valor em UFM por atividade (Anexo II da LC 001/2010). A regra para múltiplas atividades não foi localizada:
