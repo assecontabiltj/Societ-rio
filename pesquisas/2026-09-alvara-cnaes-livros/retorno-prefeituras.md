@@ -39,9 +39,15 @@
   * 🔎 A lei acrescenta +10% por atividade adicional, com limite de 100%. Com os 3 CNAEs, o acréscimo pode chegar a +30%.
 * **Sanitário:** ✅ Haverá cobrança adicional por incluir as atividades. *Valor ou percentual a confirmar.*
 
-**Penha:** ⏳ Nenhum retorno ainda.
-* 🔎 **Funcionamento:** a TFFE é anual, calculada por tabela. A regra para múltiplas atividades não foi localizada.
-* 🔎 **Sanitário:** baixo risco. Não deve haver cobrança adicional.
+**Penha:** ⏳ Nenhum retorno ainda. Análise feita sobre o Anexo I da LC 13/2009 (CTM, tabela da TVS) e a LC 183/2025.
+* 🔎 **Funcionamento (TFFE):** ainda sem regra. A tabela e os artigos da TFFE (arts. 328 a 351 da LC 13/2009) não estavam nos arquivos recebidos. O zip trazia só a tabela da vigilância sanitária e a planta de valores.
+* 🔎 **Sanitário (TVS):** **pode haver cobrança adicional.**
+  - O Anexo I da LC 13/2009 ("Alvará sanitário anual – por atividade desenvolvida") enquadra o comércio não alimentício no item 1.2.1 h, "Comércio geral (eletrodomésticos, calçado, tecido, disco, vestuário, etc.)", com **1,00 UFM**.
+  - Regra para mais de uma atividade: *"estabelecimentos com mais de uma atividade, o valor da taxa será a soma em UFM das atividades exercidas"*. **Em Penha, a taxa soma por atividade.**
+  - **Efeito:**
+    - Se a prefeitura tratar livros e jornais como a mesma atividade "comércio geral" que a empresa já exerce, o acréscimo é zero.
+    - Se contar cada CNAE como atividade distinta, o acréscimo é de **+1 UFM por CNAE, até +3 UFM/ano**. Com a UFM de 2025 (R$ 210,81), isso dá **≈ R$ 210 a R$ 632 por ano**.
+* **LC 183/2025:** a isenção da TFLE, da TFFE e da TVS vale só para entidades sem fins lucrativos (associações, ONGs, partidos etc.). **Não se aplica** às empresas do estudo.
 
 **São José:** ⏳ Nenhum retorno ainda.
 * 🔎 **Funcionamento:** a lei cobra a atividade de maior valor da Tabela A, +20% para cada outra atividade. Com os 3 CNAEs, o acréscimo pode chegar a +60%.
