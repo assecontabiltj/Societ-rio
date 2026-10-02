@@ -60,9 +60,21 @@
 * **LC 183/2025:** a isenção vale só para entidades sem fins lucrativos. **Não se aplica.**
 * **UFM 2025:** R$ 210,81.
 
-**São José:** ⏳ Nenhum retorno ainda.
-* 🔎 **Funcionamento:** a lei cobra a atividade de maior valor da Tabela A, +20% para cada outra atividade. Com os 3 CNAEs, o acréscimo pode chegar a +60%.
-* 🔎 **Sanitário:** só há taxa para atividades sujeitas à vigilância sanitária. Não deve haver cobrança adicional.
+**São José:** ⏳ Nenhum retorno ainda. Análise feita sobre o texto consolidado do CTM (LC 21/2005, com alterações até a LC 189/2026).
+* ⚠️ **Correção:** a regra "taxação mais elevada + 20% para cada uma das outras atividades" (art. 314, §2º), usada na pesquisa anterior, **foi revogada pela LC 23/2006**. Não há mais acréscimo de 20% por atividade.
+* 🔎 **Funcionamento (Taxa de Fiscalização – arts. 314 e 315):** **não haverá cobrança adicional.**
+  - A taxa anual segue as Tabelas A e B do art. 314. A Tabela A cobra pelo **tipo de estabelecimento** (comercial "outros": 1,50 URM), não pelo CNAE. A Tabela B soma um percentual pela **área** (até 100 m², 0%; acima de 800 m², +800%).
+  - Incluir livros e jornais não muda o tipo (continua comercial) nem a área.
+* 🔎 **Sanitário (TVS – arts. 331 a 334 e Anexo I):** **pode haver cobrança adicional, de valor pequeno.**
+  - Regra do Anexo I: *"Todo estabelecimento que desenvolver mais de uma atividade, além da taxa da atividade principal, será acrescido 50% da taxa de cada atividade secundária desenvolvida"* (ver também art. 333, §2º).
+  - Livros e jornais se enquadram em 16211 "Comércio Geral (eletrodom., tecido, disco, vest., calçados etc.)": **0,40 URM**.
+  - **Efeito:**
+    - Se a empresa já é "comércio geral", os novos CNAEs tendem a cair no mesmo item, sem acréscimo.
+    - Se a prefeitura contar cada CNAE como atividade secundária, o acréscimo é de 50% × 0,40 = **+0,20 URM por CNAE, até +0,60 URM/ano**.
+  - **Cobrança única:** a alteração de atividade é fato gerador da TVS (art. 331, III; art. 334, II).
+  - **Isenção:** MEI e endereço apenas para correspondência não pagam TVS (informação da prefeitura).
+  - **URM:** R$ 88,06 em 2005, corrigida anualmente. Valor de 2026 não localizado.
+* Contatos: receita.gabinete@pmsj.sc.gov.br (Receita) e processos.visa@pmsj.sc.gov.br (VISA).
 
 **Tijucas:** ⏳ Nenhum retorno ainda. Análise feita sobre o texto integral da Lei 3.176/2025, seus anexos consolidados, a Lei 3.342/2026 e a LC 116/2025.
 * 🔎 **Funcionamento (TLF):** **haverá acréscimo pequeno no valor anual**, mais uma cobrança única na inclusão.
