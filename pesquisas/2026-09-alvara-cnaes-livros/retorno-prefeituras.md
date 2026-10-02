@@ -1,24 +1,26 @@
 # Retorno das prefeituras: inclusão de 3 CNAEs secundários (livros/jornais)
 
+**Atualizado em:** 02/10/2026
+
 **Legenda**
-- ✅ **Confirmado pela prefeitura:** resposta recebida.
-- 🔎 **Pesquisa na legislação:** ainda aguarda confirmação da prefeitura.
+- ✅ **Resposta da prefeitura.**
+- ⏳ **Sem retorno ainda.** A nota 🔎 traz o que a pesquisa na legislação indica.
 
 **Balneário Camboriú:**
 * **Funcionamento:** ✅ Cobrança devida pela metragem, e não pela quantidade de CNAEs, ou seja, não haverá cobrança adicional.
 * **Sanitário:** ✅ Cobrança de 0,50 UFM por CNAE de baixo risco sujeito à vigilância sanitária, ou R$ 225,46 em 2026 (até R$ 676,38 para os 3 CNAEs).
 
-**Balneário Piçarras:**
-* **Funcionamento:** 🔎 A lei de taxas (LO 715/2019, arts. 16 a 24) e o CTM (LC 155/2019, art. 200) reduzem **a zero a TLLI (Localização e Instalação) e a TLF (Funcionamento)** para MEI e para **atividades de baixo risco**, e dispensam a apresentação de alvará. A classificação de risco está na Lei 1.013/2023 e no Decreto 844/2024. Os 3 CNAEs são de baixo risco, então **não haverá cobrança adicional**. Não encontrei regra de acréscimo por atividade.
-* **Sanitário:** 🔎 O Código Sanitário (LC 162/2019) **isenta da taxa de vigilância sanitária as atividades econômicas de baixo risco**, nos termos do regulamento. A isenção não dispensa o cumprimento das normas sanitárias. Os 3 CNAEs são de baixo risco, então **não haverá cobrança adicional**.
+**Balneário Piçarras:** ⏳ Nenhum retorno ainda.
+* 🔎 **Funcionamento:** a LO 715/2019 e a LC 155/2019 (art. 200) reduzem a zero a TLLI e a TLF para atividades de baixo risco. Não deve haver cobrança adicional.
+* 🔎 **Sanitário:** a LC 162/2019 (Código Sanitário) isenta da taxa de vigilância sanitária as atividades de baixo risco. Não deve haver cobrança adicional.
 
 **Blumenau:**
 * **Funcionamento:** ✅ Cobrança devida pela metragem, e não pela quantidade de CNAEs, ou seja, não haverá cobrança adicional.
 * **Sanitário:** ✅ Enquadrada em baixo risco, não haverá cobrança adicional na taxa de alvará.
 
 **Camboriú:**
-* **Funcionamento:** ✅ Haverá cobrança adicional por incluir as atividades. **Valor ou percentual a confirmar.**
-* **Sanitário:** ✅ Haverá cobrança adicional por incluir as atividades. **Valor ou percentual a confirmar.**
+* **Funcionamento:** ✅ Haverá cobrança adicional por incluir as atividades. *Valor ou percentual a confirmar.*
+* **Sanitário:** ✅ Haverá cobrança adicional por incluir as atividades. *Valor ou percentual a confirmar.*
 
 **Itajaí:**
 * **Funcionamento:** ✅ Cobrança devida pela metragem, e não pela quantidade de CNAEs, ou seja, não haverá cobrança adicional.
@@ -28,25 +30,33 @@
 * **Funcionamento:** ✅ Enquadrada em baixo risco, não haverá cobrança adicional na taxa de alvará.
 * **Sanitário:** ✅ Enquadrada em baixo risco, não haverá cobrança adicional na taxa de alvará.
 
-**Joinville:**
-* **Funcionamento:** 🔎 A TLL **não é anual**: é cobrada só na abertura, na mudança de endereço ou na **inclusão de atividade**. Na inclusão, a taxa da nova atividade é **calculada proporcionalmente à quantidade de atividades já existentes**. Portanto haverá **cobrança única** na inclusão dos 3 CNAEs, além da taxa de alteração do alvará (R$ 57,25 a R$ 58,69). Não há acréscimo anual.
-* **Sanitário:** 🔎 Baixo risco. Não deve haver cobrança adicional.
+**Joinville:** ⏳ Nenhum retorno ainda.
+* 🔎 **Funcionamento:** a TLL não é anual. É cobrada na abertura, na mudança de endereço e na inclusão de atividade, calculada proporcionalmente às atividades já existentes. Pode haver cobrança única na inclusão, além da taxa de alteração do alvará (cerca de R$ 58).
+* 🔎 **Sanitário:** baixo risco. Não deve haver cobrança adicional.
 
 **Palhoça:**
-* **Funcionamento:** 🔎 A lei (LC 18/2002, alterada pela LC 154/2013) acrescenta **10% por atividade adicional**, com limite de 100%, na TLL e na TLF. Com os 3 CNAEs, o acréscimo pode chegar a **+30%**. Não achei nada que exclua as atividades secundárias. **Prioridade confirmar.**
-* **Sanitário:** 🔎 Baixo risco. A Lei de Liberdade Econômica dispensa o alvará sanitário para baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** ⏳ Nenhum retorno ainda.
+  * 🔎 A lei acrescenta +10% por atividade adicional, com limite de 100%. Com os 3 CNAEs, o acréscimo pode chegar a +30%.
+* **Sanitário:** ✅ Haverá cobrança adicional por incluir as atividades. *Valor ou percentual a confirmar.*
 
-**Penha:**
-* **Funcionamento:** 🔎 A TFFE é anual, calculada por tabela. A regra para múltiplas atividades não foi localizada. A LC 183/2025 isenta apenas entidades sem fins lucrativos e não se aplica aqui. Aguardando retorno.
-* **Sanitário:** 🔎 Baixo risco. Não deve haver cobrança adicional.
+**Penha:** ⏳ Nenhum retorno ainda.
+* 🔎 **Funcionamento:** a TFFE é anual, calculada por tabela. A regra para múltiplas atividades não foi localizada.
+* 🔎 **Sanitário:** baixo risco. Não deve haver cobrança adicional.
 
-**São José:**
-* **Funcionamento:** 🔎 Confirmado na lei: a taxa é calculada pela atividade de maior valor da Tabela A, **+20% para cada outra atividade**, e isso inclui as secundárias. Com os 3 CNAEs, o acréscimo pode chegar a **+60%**. **Prioridade confirmar.**
-* **Sanitário:** 🔎 A licença sanitária simplificada gera taxa anual, mas só para atividades sujeitas à vigilância sanitária. Livros e jornais, em regra, não são. Não deve haver cobrança adicional. Contato: processos.visa@pmsj.sc.gov.br.
+**São José:** ⏳ Nenhum retorno ainda.
+* 🔎 **Funcionamento:** a lei cobra a atividade de maior valor da Tabela A, +20% para cada outra atividade. Com os 3 CNAEs, o acréscimo pode chegar a +60%.
+* 🔎 **Sanitário:** só há taxa para atividades sujeitas à vigilância sanitária. Não deve haver cobrança adicional.
 
-**Tijucas:**
-* **Funcionamento:** 🔎 A TLL tem valor em UFM por atividade (Anexo II da LC 001/2010). A regra para múltiplas atividades não foi localizada:
-  - Se cobrar só a atividade de maior valor, não há acréscimo.
-  - Se somar as atividades, há acréscimo.
-  - **Prioridade confirmar.**
-* **Sanitário:** 🔎 A Taxa de Vigilância Sanitária varia conforme o tipo de atividade (LC 101/2023). Por ser baixo risco, a tendência é não haver cobrança adicional.
+**Tijucas:** ⏳ Nenhum retorno ainda.
+* 🔎 **Funcionamento:** a tabela tem valor por atividade (Anexo II da LC 001/2010). Não foi localizado se cobra só a de maior valor ou se soma todas.
+* 🔎 **Sanitário:** a taxa varia conforme o tipo de atividade. A tendência é não haver cobrança adicional.
+
+---
+
+## Placar (respostas oficiais)
+
+| | Funcionamento | Sanitário |
+|---|---|---|
+| Sem cobrança adicional | Balneário Camboriú, Blumenau, Itajaí, Itapema | Blumenau, Itajaí, Itapema |
+| Com cobrança adicional | Camboriú | Balneário Camboriú (R$ 225,46 por CNAE), Camboriú, Palhoça |
+| Aguardando | Piçarras, Joinville, Palhoça, Penha, São José, Tijucas | Piçarras, Joinville, Penha, São José, Tijucas |
