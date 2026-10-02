@@ -39,15 +39,26 @@
   * 🔎 A lei acrescenta +10% por atividade adicional, com limite de 100%. Com os 3 CNAEs, o acréscimo pode chegar a +30%.
 * **Sanitário:** ✅ Haverá cobrança adicional por incluir as atividades. *Valor ou percentual a confirmar.*
 
-**Penha:** ⏳ Nenhum retorno ainda. Análise feita sobre o Anexo I da LC 13/2009 (CTM, tabela da TVS) e a LC 183/2025.
-* 🔎 **Funcionamento (TFFE):** ainda sem regra. A tabela e os artigos da TFFE (arts. 328 a 351 da LC 13/2009) não estavam nos arquivos recebidos. O zip trazia só a tabela da vigilância sanitária e a planta de valores.
-* 🔎 **Sanitário (TVS):** **pode haver cobrança adicional.**
-  - O Anexo I da LC 13/2009 ("Alvará sanitário anual – por atividade desenvolvida") enquadra o comércio não alimentício no item 1.2.1 h, "Comércio geral (eletrodomésticos, calçado, tecido, disco, vestuário, etc.)", com **1,00 UFM**.
-  - Regra para mais de uma atividade: *"estabelecimentos com mais de uma atividade, o valor da taxa será a soma em UFM das atividades exercidas"*. **Em Penha, a taxa soma por atividade.**
+**Penha:** ⏳ Nenhum retorno ainda. Análise feita sobre o texto integral do CTM (LC 13/2009, com alterações até a LC 203/2025) e a LC 183/2025.
+* 🔎 **Funcionamento (TFFE – arts. 330 a 333):** **sem acréscimo anual por quantidade de atividades**, mas com cobrança única na inclusão. Atenção ao atacadista.
+  - **Cálculo:** a TFFE anual segue as Tabelas A e B do art. 329 (art. 330, §2º). A Tabela A dá o valor por **grupo de atividade**; a Tabela B soma um percentual pela **área** (até 400 m², 0%; acima de 800 m², +100%).
+  - **Acréscimo por atividade revogado:** a regra antiga (art. 329, §1º: "taxação mais elevada + 20% para cada uma das outras atividades") foi **revogada pela LC 20/2010**. Hoje não há acréscimo por atividade adicional.
+  - **Valores da Tabela A:**
+    - 28.14 "Papel, impressos e artigos de escritório, livraria, papelarias" (varejo): **7,41 UFM**.
+    - 28.15 "Bancas de jornais" (varejo): **7,41 UFM**.
+    - 29.12 "Papel, celulose, impressos, artigos de livraria, papelaria e escritório (inclusive distribuidores de jornais e revistas)" (atacado): **11,31 UFM**.
   - **Efeito:**
-    - Se a prefeitura tratar livros e jornais como a mesma atividade "comércio geral" que a empresa já exerce, o acréscimo é zero.
-    - Se contar cada CNAE como atividade distinta, o acréscimo é de **+1 UFM por CNAE, até +3 UFM/ano**. Com a UFM de 2025 (R$ 210,81), isso dá **≈ R$ 210 a R$ 632 por ano**.
-* **LC 183/2025:** a isenção da TFLE, da TFFE e da TVS vale só para entidades sem fins lucrativos (associações, ONGs, partidos etc.). **Não se aplica** às empresas do estudo.
+    - Para empresa de varejo, os CNAEs de varejo (7,41) têm o mesmo valor da maioria do comércio varejista. Não deve mudar.
+    - Se a empresa for só varejista e a prefeitura passar a considerar a atividade atacadista (4647-8/02), o grupo pode subir de 7,41 para **11,31 UFM** (+3,90 UFM, ≈ +53%).
+  - **Cobrança única na inclusão:** a "alteração de atividades inscritas no CNPJ" gera nova taxa de localização (TFLE) com **desconto de 70%** (art. 328, §1º, LC 203/2025).
+  - **Desconto por porte (art. 327):** ME paga 40% e EPP paga 80% do valor (descontos de 60% e 20%). MEI paga 30%.
+* 🔎 **Sanitário (TVS – arts. 351 a 357 e Anexo I):** **pode haver cobrança adicional.**
+  - Quando há duas ou mais modalidades sujeitas a controle sanitário, a taxa é calculada **em relação a cada uma** e somada (art. 356, §2º; Anexo I: "o valor da taxa será a soma em UFM das atividades exercidas").
+  - O comércio não alimentício se enquadra em "Comércio geral (eletrodomésticos, calçado, tecido, disco, vestuário etc.)", com **1,00 UFM**.
+  - **Efeito:** se a empresa já está em "comércio geral", livros e jornais tendem a ser a mesma modalidade, sem acréscimo. Se a prefeitura contar cada CNAE, o acréscimo é de **+1 UFM por CNAE, até +3 UFM/ano** (≈ R$ 632 com a UFM de 2025).
+  - **Argumento de defesa:** o fato gerador da TVS (art. 352) é ligado a alimentos, esgoto, lixo e riscos à saúde. Comércio de livros e jornais não tem relação com esses itens.
+* **LC 183/2025:** a isenção vale só para entidades sem fins lucrativos. **Não se aplica.**
+* **UFM 2025:** R$ 210,81.
 
 **São José:** ⏳ Nenhum retorno ainda.
 * 🔎 **Funcionamento:** a lei cobra a atividade de maior valor da Tabela A, +20% para cada outra atividade. Com os 3 CNAEs, o acréscimo pode chegar a +60%.
