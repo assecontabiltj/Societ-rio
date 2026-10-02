@@ -9,8 +9,8 @@
 * **Sanitário:** ✅ Cobrança de 0,50 UFM por CNAE de baixo risco sujeito à vigilância sanitária, ou R$ 225,46 em 2026 (até R$ 676,38 para os 3 CNAEs).
 
 **Balneário Piçarras:**
-* **Funcionamento:** 🔎 Para atividades de baixo risco, a lei zera a TLLI (Localização e Instalação) e a TLF (Funcionamento) e dispensa a apresentação de alvará (LC 155/2019, art. 200; LO 715/2019). Não deve haver cobrança adicional.
-* **Sanitário:** 🔎 Baixo risco. Não deve haver cobrança adicional.
+* **Funcionamento:** 🔎 A lei de taxas (LO 715/2019, arts. 16 a 24) e o CTM (LC 155/2019, art. 200) reduzem **a zero a TLLI (Localização e Instalação) e a TLF (Funcionamento)** para MEI e para **atividades de baixo risco**, e dispensam a apresentação de alvará. A classificação de risco está na Lei 1.013/2023 e no Decreto 844/2024. Os 3 CNAEs são de baixo risco, então **não haverá cobrança adicional**. Não encontrei regra de acréscimo por atividade.
+* **Sanitário:** 🔎 O Código Sanitário (LC 162/2019) **isenta da taxa de vigilância sanitária as atividades econômicas de baixo risco**, nos termos do regulamento. A isenção não dispensa o cumprimento das normas sanitárias. Os 3 CNAEs são de baixo risco, então **não haverá cobrança adicional**.
 
 **Blumenau:**
 * **Funcionamento:** ✅ Cobrança devida pela metragem, e não pela quantidade de CNAEs, ou seja, não haverá cobrança adicional.
