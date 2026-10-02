@@ -48,8 +48,7 @@
 * 🔎 **Sanitário:** só há taxa para atividades sujeitas à vigilância sanitária. Não deve haver cobrança adicional.
 
 **Tijucas:** ⏳ Nenhum retorno ainda.
-* 🔎 **Funcionamento:** a tabela tem valor por atividade (Anexo II da LC 001/2010). Não foi localizado se cobra só a de maior valor ou se soma todas.
-* 🔎 **Sanitário:** a taxa varia conforme o tipo de atividade. A tendência é não haver cobrança adicional.
+* ⚠️ **Legislação nova:** Tijucas tem um novo Código Tributário (LC 116/2025) e uma nova Lei de Taxas (Lei 3.176/2025, alterada pela Lei 3.342/2026). Essas leis substituem a LC 001/2010 e a LC 101/2023 usadas na pesquisa anterior. O texto não pôde ser lido daqui (site bloqueado), então a análise de Tijucas fica pendente até a leitura da Lei 3.176/2025.
 
 ---
 
