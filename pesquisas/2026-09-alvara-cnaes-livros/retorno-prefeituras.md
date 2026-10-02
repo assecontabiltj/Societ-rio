@@ -34,10 +34,23 @@
 * 🔎 **Funcionamento:** a TLL não é anual. É cobrada na abertura, na mudança de endereço e na inclusão de atividade, calculada proporcionalmente às atividades já existentes. Pode haver cobrança única na inclusão, além da taxa de alteração do alvará (cerca de R$ 58).
 * 🔎 **Sanitário:** baixo risco. Não deve haver cobrança adicional.
 
-**Palhoça:**
+**Palhoça:** Análise feita sobre o texto consolidado do CTM (LC 18/2002, com alterações até a LC 401/2025) e o Decreto 3.833/2025 (enquadramento da TFS por CNAE).
 * **Funcionamento:** ⏳ Nenhum retorno ainda.
-  * 🔎 A lei acrescenta +10% por atividade adicional, com limite de 100%. Com os 3 CNAEs, o acréscimo pode chegar a +30%.
-* **Sanitário:** ✅ Haverá cobrança adicional por incluir as atividades. *Valor ou percentual a confirmar.*
+  * 🔎 **Haverá cobrança adicional de 10% por CNAE, até +30%.**
+  - **Regra:** a TFF (Taxa de Fiscalização de Funcionamento, anual) tem base "para cada atividade" no Anexo V. O art. 98, §3º (LC 285/2019) diz: *"Caso o estabelecimento exerça mais de uma atividade relacionada no Anexo V, o valor da TFF será acrescida em 10% para cada atividade adicional, limitado a 100% do valor."*
+  - A TLL (localização) tem a mesma regra (art. 87, §3º), mas é lançada no primeiro exercício. Alterações de ramo de atividade produzem efeito a partir do exercício seguinte (art. 91, §1º). O art. 94-A manda usar o CNAE do Cadastro Mobiliário para esse adicional.
+  - **Valores (Anexos IV e V vigentes):**
+    | Item | TLL | TFF/ano |
+    |---|---|---|
+    | 2805 – Papel, impressos, artigos de escritório, livraria, papelarias e bancas de jornais (varejo) | R$ 229,89 | R$ 114,95 |
+    | 2912 – Papel, celulose, impressos, livraria, papelaria e escritório, inclusive distribuidores de jornais e revistas (atacado) | R$ 919,57 | R$ 459,78 |
+  - **Efeito:** TFF nova = TFF atual × (1 + 0,10 × nº de CNAEs adicionais), limitada ao dobro. Com os 3 CNAEs secundários: **+30%**.
+* **Sanitário:** ✅ Haverá cobrança adicional por incluir as atividades (resposta da prefeitura).
+  * 🔎 **Explicação pela lei:**
+  - O Decreto 3.833/2025 enquadra os **3 CNAEs (4647-8/02, 4761-0/01 e 4761-0/02) no item 16221 "Comércio em geral"**, que vale **R$ 65,00** no Anexo VIII.
+  - O art. 140, §1º diz: *"Caso o estabelecimento exerça mais de uma atividade relacionada no Anexo VIII, o valor da TFS será acrescida em 10% para cada atividade adicional, limitado a 100% do valor."*
+  - **Efeito:** **+10% da TFS por CNAE adicional, até +30%.** Com base de R$ 65,00, são +R$ 6,50 por CNAE, ou +R$ 19,50/ano. Se a atividade principal tiver TFS maior, o acréscimo é 10% desse valor.
+  - **Cobrança única:** a alteração de atividade é fato gerador da TFS (art. 138, III).
 
 **Penha:** ⏳ Nenhum retorno ainda. Análise feita sobre o texto integral do CTM (LC 13/2009, com alterações até a LC 203/2025) e a LC 183/2025.
 * 🔎 **Funcionamento (TFFE – arts. 330 a 333):** **sem acréscimo anual por quantidade de atividades**, mas com cobrança única na inclusão. Atenção ao atacadista.
