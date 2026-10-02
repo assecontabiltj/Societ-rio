@@ -47,20 +47,24 @@
 * 🔎 **Funcionamento:** a lei cobra a atividade de maior valor da Tabela A, +20% para cada outra atividade. Com os 3 CNAEs, o acréscimo pode chegar a +60%.
 * 🔎 **Sanitário:** só há taxa para atividades sujeitas à vigilância sanitária. Não deve haver cobrança adicional.
 
-**Tijucas:** ⏳ Nenhum retorno ainda. Análise feita sobre a legislação nova enviada (LC 116/2025, anexos da Lei 3.176/2025 e Lei 3.342/2026).
-* 🔎 **Funcionamento (TLF):** o Anexo II, alterado pela Lei 3.342/2026, diz:
-  > "quando o contribuinte tiver mais de uma atividade econômica, independentemente das atividades secundárias exercidas no mesmo estabelecimento, o cálculo levará em consideração a soma da atividade sujeita ao maior ônus fiscal e da atividade de menor ônus fiscal, no valor de 0,10 da UFM da respectiva atividade."
-
-  **Fórmula:** TLF = UFM da atividade mais cara + 10% da UFM da atividade mais barata. A quantidade de CNAEs secundários não importa.
-  - Valores da tabela:
-    - "Livrarias e Bancas de Jornais e Revistas": **140 UFM**. Cobre 4761-0/01 e 4761-0/02.
-    - Atacadista de livros (4647-8/02): sem item específico. Provavelmente se enquadra em "Comércio Atacadista de Artigos em Geral (Menos Alimentos)", com **250 UFM** (a confirmar).
-  - **Efeito da inclusão:**
-    - Se a atividade principal da empresa já vale 250 UFM ou mais, o valor anual só muda se o CNAE incluído passar a ser a atividade mais barata. Nesse caso a parcela de 10% passa a ser 14 UFM (livraria), e a diferença pode ser para mais ou para menos.
-    - Se a principal vale menos de 250 UFM, o atacadista de livros passa a ser a atividade mais cara e a TLF **aumenta**.
-  - **Cobrança única:** a TLLI vale 20% da TLF (Anexo I) e é devida na alteração de atividades (LC 116/2025, art. 181).
-* 🔎 **Sanitário (TVS):** o Anexo IX da Lei 3.176/2025 lista os 3 CNAEs com **50 UFM cada** (4647-8/02, 4761-0/01 e 4761-0/02). Não está claro se a TVS soma os CNAEs (até +150 UFM/ano) ou cobra só o de maior valor. Essa regra está no corpo da Lei 3.176/2025, que não veio no arquivo (só os anexos).
-* Valor da UFM de Tijucas em 2026: não localizado. Era R$ 3,42 em 2020.
+**Tijucas:** ⏳ Nenhum retorno ainda. Análise feita sobre o texto integral da Lei 3.176/2025, seus anexos consolidados, a Lei 3.342/2026 e a LC 116/2025.
+* 🔎 **Funcionamento (TLF):** **haverá acréscimo pequeno no valor anual**, mais uma cobrança única na inclusão.
+  - **Regra:** art. 31, §3º, combinado com o Anexo II (redação da Lei 3.342/2026). A TLF é o valor da atividade mais cara + **10% do valor da atividade mais barata**, "independentemente das atividades secundárias". O número de CNAEs não importa.
+  - **Valores (Anexo II):**
+    - "Livrarias e Bancas de Jornais e Revistas" (4761-0/01 e 4761-0/02): 140 UFM.
+    - Atacadista de livros (4647-8/02): sem item próprio. Provavelmente "Comércio Atacadista de Artigos em Geral (Menos Alimentos)", com 250 UFM (a confirmar).
+  - **Efeito anual:**
+    - Se a principal já vale 250 UFM ou mais e os novos CNAEs passam a ser os mais baratos, o acréscimo é de **até +14 UFM/ano** (10% de 140).
+    - Se a principal vale menos de 250, o atacadista de livros vira a atividade mais cara: TLF = 250 + 10% da principal antiga.
+  - **Cobrança única na inclusão:** a TLLI é devida na "alteração ou inclusão de ramo de atividade" (art. 15). Vale 20% da TLF (Anexo I), com **desconto de 50%** por ser alteração (art. 7º, §3º). Na prática, **≈ 10% da TLF**.
+* 🔎 **Sanitário (TVS):** **haverá acréscimo pequeno no valor anual**, mais uma cobrança única na inclusão.
+  - **Regra:** art. 58, §7º. A TVS é o valor da atividade mais cara + **10% do valor da atividade mais barata**, "independentemente do número de atividades econômicas". **Não soma por CNAE.**
+  - **Valores (Anexo IX):** os 3 CNAEs valem 50 UFM cada.
+  - **Efeito anual:** se a empresa já paga TVS de 50 UFM ou mais, o acréscimo é de **até +5 UFM/ano** (10% de 50).
+  - **Cobrança única na inclusão:** a alteração de atividade gera novo lançamento integral da TVS com **desconto de 50%** (art. 7º, §3º; art. 58, §§1º, III, e 5º).
+  - **Argumento de defesa:** o art. 57, parágrafo único, limita a vigilância sanitária a atividades ligadas a medicamentos, alimentos, cosméticos e saneantes, produtos tóxicos e estabelecimentos de saúde. Comércio de livros e jornais não está nessa lista. A cobrança pode ser questionada, embora o Anexo IX liste os CNAEs.
+* **MEI:** isento de ambas (art. 9º, V e VIII).
+* **UFM de Tijucas em 2026:** não localizada (R$ 3,42 em 2020).
 
 ---
 
