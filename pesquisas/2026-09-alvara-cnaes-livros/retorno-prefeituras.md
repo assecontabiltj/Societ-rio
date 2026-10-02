@@ -47,8 +47,20 @@
 * 🔎 **Funcionamento:** a lei cobra a atividade de maior valor da Tabela A, +20% para cada outra atividade. Com os 3 CNAEs, o acréscimo pode chegar a +60%.
 * 🔎 **Sanitário:** só há taxa para atividades sujeitas à vigilância sanitária. Não deve haver cobrança adicional.
 
-**Tijucas:** ⏳ Nenhum retorno ainda.
-* ⚠️ **Legislação nova:** Tijucas tem um novo Código Tributário (LC 116/2025) e uma nova Lei de Taxas (Lei 3.176/2025, alterada pela Lei 3.342/2026). Essas leis substituem a LC 001/2010 e a LC 101/2023 usadas na pesquisa anterior. O texto não pôde ser lido daqui (site bloqueado), então a análise de Tijucas fica pendente até a leitura da Lei 3.176/2025.
+**Tijucas:** ⏳ Nenhum retorno ainda. Análise feita sobre a legislação nova enviada (LC 116/2025, anexos da Lei 3.176/2025 e Lei 3.342/2026).
+* 🔎 **Funcionamento (TLF):** o Anexo II, alterado pela Lei 3.342/2026, diz:
+  > "quando o contribuinte tiver mais de uma atividade econômica, independentemente das atividades secundárias exercidas no mesmo estabelecimento, o cálculo levará em consideração a soma da atividade sujeita ao maior ônus fiscal e da atividade de menor ônus fiscal, no valor de 0,10 da UFM da respectiva atividade."
+
+  **Fórmula:** TLF = UFM da atividade mais cara + 10% da UFM da atividade mais barata. A quantidade de CNAEs secundários não importa.
+  - Valores da tabela:
+    - "Livrarias e Bancas de Jornais e Revistas": **140 UFM**. Cobre 4761-0/01 e 4761-0/02.
+    - Atacadista de livros (4647-8/02): sem item específico. Provavelmente se enquadra em "Comércio Atacadista de Artigos em Geral (Menos Alimentos)", com **250 UFM** (a confirmar).
+  - **Efeito da inclusão:**
+    - Se a atividade principal da empresa já vale 250 UFM ou mais, o valor anual só muda se o CNAE incluído passar a ser a atividade mais barata. Nesse caso a parcela de 10% passa a ser 14 UFM (livraria), e a diferença pode ser para mais ou para menos.
+    - Se a principal vale menos de 250 UFM, o atacadista de livros passa a ser a atividade mais cara e a TLF **aumenta**.
+  - **Cobrança única:** a TLLI vale 20% da TLF (Anexo I) e é devida na alteração de atividades (LC 116/2025, art. 181).
+* 🔎 **Sanitário (TVS):** o Anexo IX da Lei 3.176/2025 lista os 3 CNAEs com **50 UFM cada** (4647-8/02, 4761-0/01 e 4761-0/02). Não está claro se a TVS soma os CNAEs (até +150 UFM/ano) ou cobra só o de maior valor. Essa regra está no corpo da Lei 3.176/2025, que não veio no arquivo (só os anexos).
+* Valor da UFM de Tijucas em 2026: não localizado. Era R$ 3,42 em 2020.
 
 ---
 
